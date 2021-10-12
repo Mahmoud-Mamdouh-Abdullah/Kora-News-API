@@ -1,0 +1,11 @@
+.main-container {
+    padding-top: 120px;
+}
+
+.btn-custom {
+    background-color: #353332;
+}
+
+.table {
+    overflow-y: visible !important;
+  }
